@@ -17,7 +17,12 @@
 <p align="left">
 <a href="https://www.facebook.com/minhhuy.huynh.5076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huỳnh minh huy" height="30" width="40" /></a>
 <a href="https://www.instagram.com/call_me_irisssss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="call_me_irisssss" height="30" width="40" /></a>
+<a href="https://github.com/1Ir-is/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="call_me_irisssss" height="30" width="40" /></a>
+<a href="https://twitter.com/MKouhaku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="call_me_irisssss" height="30" width="40" /></a>
+<a href="https://create.arduino.cc/projecthub/siri1005" target="blank"><img align="center" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="call_me_irisssss" height="30" width="40" /></a>
 </p>
+
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1Ir-is&theme=tokyonight)
 
